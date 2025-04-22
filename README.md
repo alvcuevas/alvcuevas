@@ -2,4 +2,4 @@
 - 💻 Currently crafting digital experiences with React + TypeScript
 - 🔥 JavaScript enthusiast
 - ✍️ I share software development facets that spark my curiosity at [my blog](https://www.acuevas.dev)
-- 🚀 Constantly exploring new web technologies (while my coffee gets cold)
+- 🚀 Constantly exploring new technologies and software development trends
